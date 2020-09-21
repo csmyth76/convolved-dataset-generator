@@ -1,0 +1,19 @@
+{
+  "impulse-response": {
+    "ir_directory": "data/impulse-response",
+    "base_url": "https://github.com/csmyth76/sounds/raw/master/",
+    "files": [
+        "irs.tar.gz"
+    ]
+  },
+  "phrase": {
+    "phrase_directory": "data/phrase",
+    "base_url": "https://github.com/csmyth76/sounds/raw/master/",
+    "files": [
+        "okay-rhasspy.tar.gz"
+    ]
+  },
+  "convolved": {
+    "convolved_directory": "data/convolved"
+  }
+}
